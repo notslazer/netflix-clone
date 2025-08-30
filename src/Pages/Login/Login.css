@@ -84,3 +84,25 @@
     cursor: pointer;
     font-weight: 500;
 }
+
+.login-spinner{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+.login-spinner img{
+    width: 60px;
+}
+
+@media (max-width: 500px){
+    .login{
+        padding: 15px 5%;
+    }
+    .login-form{
+        padding: 40px 20px;
+    }
+    
+}
