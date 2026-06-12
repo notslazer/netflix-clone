@@ -5,7 +5,7 @@
 ### Project Title
 **Netflix Clone** - A fullstack streaming platform replica built with modern web technologies.
 
-### Catchy Description
+### Description
 Experience a fully functional Netflix clone that replicates the core streaming platform features. Built with React and Redux, this project demonstrates advanced frontend architecture, state management, and Firebase integration for a complete full-stack application that mirrors real-world production practices.
 
 ---
@@ -87,9 +87,6 @@ The application will automatically open in your browser at `http://localhost:300
 
 #### Streaming Experience
 - **Video Player** - Built-in video playback capabilities
-- **User Profiles** - Personalized user experience with profile support
-- **Watch History** - Track viewing history and continue watching features
-- **Recommendations** - Intelligent content recommendations based on user activity
 
 ---
 
@@ -102,7 +99,3 @@ This project was built completely from scratch to expand knowledge and developme
 - Firebase backend integration
 - Responsive web design principles
 - Real-world application architecture
-
----
-
-**Built with ❤️ using React.js, Redux, and Firebase**
